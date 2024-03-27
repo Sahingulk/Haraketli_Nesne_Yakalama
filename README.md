@@ -34,9 +34,9 @@
 
 <h2>Gereksinimler:</h2>
 <ul>
-  <li>Python 3.x</li>
+
   <li>OpenCV kütüphanesi</li>
-  <li>imutils kütüphanesi</li>
+ 
 </ul>
 
 <h2>Kullanım:</h2>
